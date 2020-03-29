@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-electron-dotenv",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "src/index.js",
   "author": "tysoeh <ty.soeh@gmail.com>",
   "license": "MIT",
